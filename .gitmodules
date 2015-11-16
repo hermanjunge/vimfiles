@@ -81,4 +81,4 @@
 	url = https://github.com/gregsexton/MatchTag.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
-	url = https://github.com/fatih/vim-go.git
+	url = https://github.com/hermanjunge/vim-go.git
