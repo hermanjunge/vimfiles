@@ -69,10 +69,12 @@ colorscheme espressolibre
 highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
 
-
 "some stuff to get the mouse going in term
 set mouse=a
 set ttymouse=xterm2
+
+"clipboard support
+set clipboard=unnamed
 
 "tell the term has 256 colors
 set t_Co=256
