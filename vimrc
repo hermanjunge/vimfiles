@@ -65,7 +65,7 @@ filetype indent on
 syntax on
 
 " set color and background
-colorscheme espressolibre
+colorscheme badwolf
 highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
 
