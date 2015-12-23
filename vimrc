@@ -123,6 +123,9 @@ set statusline+=%{StatuslineLongLineWarning()}
 set statusline+=%#warningmsg#
 set statusline+=%*
 
+" I'm still heavy on pasting
+set paste
+
 "display a warning if &paste is set
 set statusline+=%#error#
 set statusline+=%{&paste?'[paste]':''}
