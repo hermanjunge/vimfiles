@@ -255,7 +255,7 @@ endfunction
 "nerdtree settings
 let g:NERDTreeMouseMode = 2
 let g:NERDTreeWinSize = 40
-let g:NERDTreeIgnore = ['\.pyc$', '\.coverprofile$']
+let g:NERDTreeIgnore = ['\.pyc$', '\.coverprofile$', '\.coverprofile.html$']
 
 "explorer mappings
 nnoremap <f1> :BufExplorer<cr>
